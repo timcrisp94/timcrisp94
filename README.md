@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timcrisp94)](https://github.com/timcrisp94/github-readme-stats)
+
 <!--
 **timcrisp94/timcrisp94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
