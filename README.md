@@ -5,8 +5,10 @@
 
 ### About Me
 
-I'm a full stack developer based in Valparaiso, Indiana. Prior to my life in web-development, I was a podcast producer and music journalist. 
+I'm a full stack developer based in Valparaiso, Indiana. Prior to my life in web-development, I was a podcast producer and music journalist.
 
+
+### Proficiencies 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -27,9 +29,7 @@ I'm a full stack developer based in Valparaiso, Indiana. Prior to my life in web
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-### About Me
 
-I'm a full stack developer based in Valparaiso, Indiana. 
 
 <!--
 **timcrisp94/timcrisp94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
