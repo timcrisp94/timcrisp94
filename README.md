@@ -1,12 +1,16 @@
+<div align="center">
+<!-- <img align="center" src=" "> -->
 
 
 
-[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timcrisp94)](https://github.com/timcrisp94/github-readme-stats)
+
+---
 
 ### About Me
 
 I'm a full stack developer based in Valparaiso, Indiana. Prior to my life in web-development, I was a podcast producer and music journalist.
 
+---
 
 ### Proficiencies 
 
@@ -28,9 +32,18 @@ I'm a full stack developer based in Valparaiso, Indiana. Prior to my life in web
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 
+## Reach out
+<a href="https://www.linkedin.com/in/timcrisp94/"><img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=LinkedIn&logoColor=black" />  </a>
+<a href="mailto: timothycrisp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=Gmail&logoColor=black" />  </a>
 
+---
 
+[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timcrisp94)](https://github.com/timcrisp94/github-readme-stats)
+ 
+</div>  
+  
 <!--
 **timcrisp94/timcrisp94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
