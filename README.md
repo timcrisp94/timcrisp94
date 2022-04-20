@@ -2,9 +2,9 @@
 <img align="center" src="https://live.staticflickr.com/65535/52018442505_c1f2867698_c.jpg" width="512" height="640" alt="amsterdam">
 ---
 
-### About Me
+## About Me
 
-I'm a full stack developer based in Valparaiso, Indiana. Prior to my life in web-development, I was a podcast producer and music journalist.
+#### I'm a full stack developer based in Valparaiso, Indiana. <br>Prior to my life in web-development, I was a podcast producer and music journalist.
 
 ---
 
