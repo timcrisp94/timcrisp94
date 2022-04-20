@@ -1,6 +1,5 @@
 <div align="center">
-<img align="center" src="https://www.flickr.com/photos/195524365@N08/shares/72Q509">
-
+<img align="center" src="https://live.staticflickr.com/65535/52018442505_c1f2867698_c.jpg" width="640" height="800" alt="amsterdam">
 ---
 
 ### About Me
