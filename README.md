@@ -1,6 +1,7 @@
 <div align="center">
-<img align="center" src="https://live.staticflickr.com/65535/52017963473_2c1e39dd80_c.jpg" width="512" height="640" alt="me and had">
+<img align="center" src="https://live.staticflickr.com/65535/52017963473_2c1e39dd80_c.jpg" width="750" height="739" alt="meandhad">
  
+
 ---
 
 ## About Me
